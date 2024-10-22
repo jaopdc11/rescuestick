@@ -12,11 +12,6 @@ Rescuestick is a tool designed to assist in recovering files or important data f
 - Python 3.x
 - Linux environment (windows support is currently in development)
 
-To install the dependencies, run:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 1. Clone the repository:
 ```bash
